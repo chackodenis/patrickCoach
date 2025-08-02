@@ -72,5 +72,51 @@ export const gallery = [
         description: "Mentoring session with young minds"
       }
     ]
+  },
+  {
+    title: "Rotaract installation: Talk - The change makers",
+    images: [
+      {
+        src: "/lovable-uploads/placeholder-rotaract-1.png",
+        description: ""
+      },
+      {
+        src: "/lovable-uploads/placeholder-rotaract-2.png",
+        description: ""
+      },
+      {
+        src: "/lovable-uploads/placeholder-rotaract-3.png",
+        description: ""
+      },
+      {
+        src: "/lovable-uploads/placeholder-rotaract-4.png",
+        description: ""
+      },
+      {
+        src: "/lovable-uploads/placeholder-rotaract-5.png",
+        description: ""
+      }
+    ]
+  },
+  {
+    title: "Addressing students at Kolar",
+    images: [
+      {
+        src: "/lovable-uploads/Image1.png",
+        description: ""
+      },
+      {
+        src: "/lovable-uploads/Image2.png",
+        description: ""
+      },
+      {
+        src: "/lovable-uploads/Image3.png",
+        description: ""
+      },
+      {
+        src: "/lovable-uploads/Image4.png",
+        description: ""
+      }
+    ]
   }
 ];
